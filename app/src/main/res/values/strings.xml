@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign up</string>
+    <string name="log_into_account">Log into your account</string>
+    <string name="phone_number">PhoneNumber</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="snap_and_share">Snap and share every moments</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="create_account">Create account</string>
+    <string name="usser_name">User name</string>
+    <string name="email">Email</string>
+    <string name="forgot_password_header">Forgot password</string>
+    <string name="send">Send</string>
+</resources>
